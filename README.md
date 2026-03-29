@@ -27,3 +27,23 @@ How to upload the code:
 1) 1st install the "Arduino IDE" (for installation follow youtube video)
 2) Copy the code or download the file.
 3) upload the code to Microcontroller.
+   
+How to optimizing the code:
+1) Open Serial Monitor
+2) Watch LDR values:
+3) Set threshold between them
+
+**Setup Tips:
+1) LDR Placement
+    Put it exactly where cactus appears
+    Reduce ambient light interference (use tape tube)
+2) Servo Position
+    Align it with spacebar
+    Adjust angle for clean press
+3) Improve Accuracy
+    Use black tape to focus sensor
+    Increase sampling speed if needed
+
+
+
+
