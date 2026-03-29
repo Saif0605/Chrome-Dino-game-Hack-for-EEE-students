@@ -18,9 +18,10 @@ Basic idea:
 3) It triggers the servo to presses spacebar
 
 How to build:
-1) 1st collect the componets that are mentioned.
-2) add them them like the circuit name ""
-3) upload the code name ""
+1) open "Dino game" file and 1st read "Dino Auto Play.pdf"
+2) collect the componets that are mentioned.
+3) add them them like the circuit name "Dino_circuit.png" or like "Dino Auto Play.pdf"
+4) upload the code name "Dino_code.png"
 
 How to upload the code:
 1) 1st install the "Arduino IDE" (for installation follow youtube video)
