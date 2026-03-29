@@ -35,14 +35,14 @@ How to optimizing the code:
 
 **Setup Tips:
 1) LDR Placement
-    Put it exactly where cactus appears
-    Reduce ambient light interference (use tape tube)
-2) Servo Position
-    Align it with spacebar
-    Adjust angle for clean press
-3) Improve Accuracy
-    Use black tape to focus sensor
-    Increase sampling speed if needed
+    - Put it exactly where cactus appears
+    - Reduce ambient light interference (use tape tube)
+3) Servo Position
+    - Align it with spacebar
+    - Adjust angle for clean press
+5) Improve Accuracy
+    - Use black tape to focus sensor
+    - Increase sampling speed if needed
 
 
 
